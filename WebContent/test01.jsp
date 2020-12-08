@@ -27,6 +27,8 @@ conn.close();
 Connection con1=DBCPBean.getConn();
 %>
 con1 :<%=con1 %>
+반가반가..............
+
 </body>
 </html>
 
