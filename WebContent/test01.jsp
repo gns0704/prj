@@ -28,7 +28,8 @@ Connection con1=DBCPBean.getConn();
 %>
 con1 :<%=con1 %>
 반가반가..............
-
+<br>
+<h1>ffffffffffffffffffff</h1>
 </body>
 </html>
 
